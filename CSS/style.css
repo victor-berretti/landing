@@ -1,0 +1,70 @@
+@import url ("https://fonts.googleapis.com/css?family=Nanum+Gothic|Raleway");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url(components/banner.css);
+@import url(components/card.css);
+
+body {
+font-family: 'Comfortaa', sans-serif;
+font-size: 18px;
+margin: 0px;
+
+
+}
+
+
+h1,h2,h3 {
+
+font-family: 'Lora', sans-serif;
+font-weight: bold;
+color:grey;
+
+
+
+}
+
+h1{
+	font-size: 29px;
+	font-weight: 100;
+	font-weight: lighter; 
+	letter-spacing: 7px;
+	text-align: center;
+}
+
+h2{
+	color:#525252;
+	text-align: center;
+	letter-spacing: 6px;
+
+}
+
+h3{
+	letter-spacing: 5px;
+	font-weight: lighter; 
+}
+
+h4{
+	text-align: center;
+
+}
+
+a{
+	text-decoration: none;
+	text-align: center;
+	position: center;
+}
+
+p{
+	color:grey;
+	text-align: justify;
+	letter-spacing: 2px;
+	line-height: 25pt;
+}
+
+
+
+
+
+
+
